@@ -126,7 +126,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: raginisingh
+          github_user_name: Raagini-Singh
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -139,7 +139,7 @@ jobs:
 ```
 
 
-> Update each row with your actual repo links, e.g. `[HACKDOOR](https://github.com/raginisingh/hackdoor)`
+> Update each row with your actual repo links, e.g. `[HACKDOOR](https://github.com/Raagini-Singh/hackdoor)`
 
 ## `[ CTF LOG ]`
 

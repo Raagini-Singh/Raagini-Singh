@@ -110,37 +110,6 @@ ragini@kali:~$ cat about_me.txt
 </div>
 
 
-
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Raagini-Singh
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-
-> Update each row with your actual repo links, e.g. `[HACKDOOR](https://github.com/Raagini-Singh/hackdoor)`
-
 ## `[ CTF LOG ]`
 
 ```

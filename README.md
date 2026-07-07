@@ -22,13 +22,13 @@ ragini@kali:~$ cat about_me.txt
 ```
 
 ```
-> B.Tech CSE @ Lovely Professional University (2nd Year / 3rd Sem)
-> Focus       : Offensive Security | Cyber Threat Intelligence | Blue Team
+> Status      : Professionally confused, technically curious.
+> Focus       : Offensive Security | Cyber Threat Intelligence | Red Team
 > Currently   : Grinding CTFs, labs & certifications
 > Ranked      : Top 10 / Top 15 in multiple CTF events
-> Long game   : Cyber roles @ DRDO / NTRO / Military Cyber Divisions
-> Side quest  : Crochet business + creative web dev projects
-> Fun fact    : I break things to understand how to defend them
+> Reality     : 90% debugging, 10% pretending I knew the fix.
+> Experience  : Professionally clicking "Retry."
+> Fun fact    : I accidentally turned curiosity into a career plan.
 ```
 
 <br>
@@ -55,13 +55,57 @@ ragini@kali:~$ cat about_me.txt
 <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=flat-square&logo=burpsuite&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Hashcat-000000?style=flat-square&logo=hashcat&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Volatility-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/YARA-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Cuckoo%20Sandbox-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/VirusTotal-000000?style=for-the-badge&logo=virustotal&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/theHarvester-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/SpiderFoot-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Recon--ng-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Google%20Dorking-000000?style=for-the-badge&logoColor=00ff41" />
+
+
+**Red Team / Exploitation**
+<br>
+<img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Cobalt%20Strike-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Empire%20C2-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/sqlmap-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logoColor=00ff41" />
+
 
 **Blue Team / Monitoring**
 <br>
-<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Elastic%20(ELK)-000000?style=flat-square&logo=elastic&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/VirusTotal-000000?style=flat-square&logo=virustotal&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Elastic%20(ELK)-000000?style=for-the-badge&logo=elastic&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Suricata-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Snort-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00ff41" />
 
 **Systems & Dev**
 <br>
@@ -136,9 +180,9 @@ $ cat ctf_history.log | tail -5
 </div>
 
 ```
-$ echo "connection terminated" 
-> connection terminated
-> session logged: $(date)
+> Life        : git commit -m "hope this works"
+> Reality     : git commit -m "please work"
+> Production  : git push --force (don't tell anyone)
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>

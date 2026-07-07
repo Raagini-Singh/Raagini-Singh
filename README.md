@@ -109,7 +109,7 @@ ragini@kali:~$ cat about_me.txt
 
 </div>
 
-To make the snake animation above actually render, add this GitHub Action to your profile repo (`.github/workflows/snake.yml`):
+
 
 ```yaml
 name: generate snake

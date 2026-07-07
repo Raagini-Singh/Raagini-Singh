@@ -125,7 +125,7 @@ ragini@kali:~$ cat about_me.txt
 ```
 [■■■■■■■■■□□] ISC2 Certified in Cybersecurity      - in progress
 [■■■■□□□□□□] Microsoft SC-200                       - queued
-[■■■□□□□□□□] CCNA                                   - queued
+[■■■□□□□□□□] CRTA                                   - queued
 ```
 
 ## `[ LIVE SYSTEM STATS ]`

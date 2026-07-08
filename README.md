@@ -215,4 +215,8 @@ $ cat ctf_history.log | tail -5
   <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph.svg"> 
   </picture>
 </div>
-
+<!-- LOC Stats SVG -->
+<div align="center">
+<!-- LOC-STATS:START -->
+<img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
+<!-- LOC-STATS:END -->

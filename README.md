@@ -135,8 +135,8 @@ ragini@kali:~$ cat about_me.txt
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Raagini-Singh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring=00ff41" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raagini-Singh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+<!-- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Raagini-Singh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring=00ff41" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raagini-Singh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" /> -->
 
 <br>
 

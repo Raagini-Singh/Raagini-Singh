@@ -74,25 +74,23 @@ def generate_svg(loc_data):
     # Sort by code count and get top 6
     top_languages = sorted(languages.items(), key=lambda x: x[1]['code'], reverse=True)[:6]
 
-    # Tokyo Night theme palette
-    TN_BG         = '#1a1b27'   # card background
-    TN_BG_PANEL   = '#24283b'   # bar track / divider panel
-    TN_BORDER     = '#292e42'   # subtle border / divider
-    TN_FG         = '#c0caf5'   # primary text
-    TN_FG_MUTED   = '#565f89'   # secondary / muted text
-    TN_PURPLE     = '#bb9af7'   # accent (title, gradient start)
-    TN_BLUE       = '#7aa2f7'   # gradient end / fallback bar color
-    TN_CYAN       = '#2ac3de'   # "updated" footer text
-    TN_RED        = '#f7768e'   # JSON
-    TN_ORANGE     = '#ff9e64'   # HTML / Rust
-    TN_YELLOW     = '#e0af68'   # JavaScript / JSON alt
-    TN_GREEN      = '#9ece6a'   # CSS / Shell / Vue
-    TN_TEAL       = '#73daca'   # Go / YAML
+    # README theme palette
+    TN_BG         = '#0d1117'   # card background
+    TN_BG_PANEL   = '#161b22'   # bar track / divider panel
+    TN_BORDER     = '#30363d'   # subtle border / divider
+    TN_FG         = '#c9d1d9'   # primary text
+    TN_FG_MUTED   = '#8b949e'   # secondary / muted text
+    TN_GREEN      = '#00ff41'   # neon accent used across the README
+    TN_GREEN_DARK = '#00c853'   # darker accent for gradients and fills
+    TN_TEAL       = '#58a6ff'   # cool accent for secondary highlights
+    TN_RED        = '#ff7b72'   # fallback accent
+    TN_ORANGE     = '#ffa657'   # fallback accent
+    TN_YELLOW     = '#f2cc60'   # fallback accent
 
     language_colors = {
-        'Python':     TN_BLUE,
-        'JavaScript': TN_YELLOW,
-        'TypeScript': TN_BLUE,
+      'Python':     TN_TEAL,
+      'JavaScript': TN_YELLOW,
+      'TypeScript': TN_TEAL,
         'Rust':       TN_ORANGE,
         'Go':         TN_TEAL,
         'Java':       TN_ORANGE,
@@ -100,7 +98,7 @@ def generate_svg(loc_data):
         'C':          TN_FG_MUTED,
         'C++':        TN_RED,
         'C#':         TN_GREEN,
-        'PHP':        TN_PURPLE,
+      'PHP':        TN_GREEN_DARK,
         'Swift':      TN_ORANGE,
         'Kotlin':     TN_ORANGE,
         'HTML':       TN_ORANGE,
@@ -108,12 +106,12 @@ def generate_svg(loc_data):
         'Sass':       TN_RED,
         'SCSS':       TN_RED,
         'Shell':      TN_GREEN,
-        'Haskell':    TN_PURPLE,
+      'Haskell':    TN_GREEN_DARK,
         'Vue':        TN_TEAL,
         'JSON':       TN_RED,
-        'YAML':       TN_PURPLE,
+      'YAML':       TN_GREEN_DARK,
         'Markdown':   TN_FG_MUTED,
-        'Dockerfile': TN_CYAN,
+      'Dockerfile': TN_GREEN,
     }
 
     svg_width = 800
@@ -122,8 +120,8 @@ def generate_svg(loc_data):
     svg = f'''<svg width="{svg_width}" height="{svg_height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="accent-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:{TN_PURPLE};stop-opacity:1" />
-      <stop offset="100%" style="stop-color:{TN_BLUE};stop-opacity:0.9" />
+      <stop offset="0%" style="stop-color:{TN_GREEN};stop-opacity:1" />
+      <stop offset="100%" style="stop-color:{TN_GREEN_DARK};stop-opacity:0.9" />
     </linearGradient>
   </defs>
 
@@ -153,7 +151,7 @@ def generate_svg(loc_data):
   <line x1="30" y1="100" x2="{svg_width - 30}" y2="100" stroke="{TN_BORDER}" stroke-width="1"/>
 
   <!-- Section title -->
-  <text x="40" y="130" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" font-weight="600" fill="{TN_PURPLE}" letter-spacing="2">
+  <text x="40" y="130" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" font-weight="600" fill="{TN_GREEN}" letter-spacing="2">
     TOP LANGUAGES
   </text>
 '''
@@ -164,7 +162,7 @@ def generate_svg(loc_data):
 
     for idx, (lang, lang_data) in enumerate(top_languages):
         code_lines = lang_data['code']
-        color = language_colors.get(lang, TN_BLUE)
+        color = language_colors.get(lang, TN_GREEN_DARK)
         bar_width = (code_lines / max_code) * max_bar_width
         percentage = (code_lines / total_code) * 100
 
@@ -187,7 +185,7 @@ def generate_svg(loc_data):
   <text x="{}" y="{}" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="10" fill="{}" text-anchor="end">
     Updated automatically via GitHub Actions
   </text>
-</svg>'''.format(svg_width - 20, svg_height - 10, TN_CYAN)
+</svg>'''.format(svg_width - 20, svg_height - 10, TN_GREEN)
 
     return svg
 

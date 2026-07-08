@@ -11,9 +11,9 @@
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Raagini-Singh&color=00ff41&style=flat-square&label=CONNECTIONS+ESTABLISHED)
 ![GitHub followers](https://img.shields.io/github/followers/Raagini-Singh?color=00ff41&style=flat-square&label=FOLLOWERS) -->
-<div>
-  <img src="https://komarev.com/ghpvc/?username=Raagini-Singh&color=00ff41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+ <div>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRaagini-Singh%2FRaagini-Singh&label=VISITORS&labelColor=%23000&countColor=%230A0209" alt="Profile Views" />
+  </div>
 
 </div>
 

@@ -212,7 +212,7 @@ $ cat ctf_history.log | tail -5
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raagini-Singh&theme=github_dark&utcOffset=0" alt="Productive time" width="48%" height="170" />
 </div>
 
-</div>
   <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph.svg"> 
   </picture>
 </div>
+

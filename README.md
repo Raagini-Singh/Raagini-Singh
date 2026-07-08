@@ -47,11 +47,15 @@ ragini@kali:~$ cat about_me.txt
 
 </div>
 
+<!-- LOC Stats SVG -->
+<div align="center">
+<!-- LOC-STATS:START -->
+<img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
+<!-- LOC-STATS:END -->
+
 ## `[ TOOLKIT & ARSENAL ]`
 
 <div align="center">
-
-**Recon & Exploitation**
 <br>
 <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=00ff41" />
@@ -71,9 +75,6 @@ ragini@kali:~$ cat about_me.txt
 <img src="https://img.shields.io/badge/SpiderFoot-000000?style=for-the-badge&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Recon--ng-000000?style=for-the-badge&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Google%20Dorking-000000?style=for-the-badge&logoColor=00ff41" />
-
-
-**Red Team / Exploitation**
 <br>
 <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff41" />
@@ -92,9 +93,6 @@ ragini@kali:~$ cat about_me.txt
 <img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logoColor=00ff41" />
-
-
-**Blue Team / Monitoring**
 <br>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Elastic%20(ELK)-000000?style=for-the-badge&logo=elastic&logoColor=00ff41" />
@@ -109,8 +107,6 @@ ragini@kali:~$ cat about_me.txt
 <img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00ff41" />
-
-**Systems & Dev**
 <br>
 <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41" />
@@ -134,26 +130,33 @@ ragini@kali:~$ cat about_me.txt
 ## `[ LIVE SYSTEM STATS ]`
 
 <div align="center">
+ <br>
 
-<!-- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Raagini-Singh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring=00ff41" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raagini-Singh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" /> -->
+  <a href="https://github-contributor-stats.vercel.app/api?username=Raagini-Singh&limit=3&theme=github_dark&combine_all_yearly_contributions=true">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Raagini-Singh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" height="170" /> -->
+  </a>
 
-<br>
+  <br>
 
-<img src="https://streak-stats.demolab.com?user=Raagini-Singh&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=00ff41&sideLabels=c9d1d9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raagini-Singh&theme=github_dark" alt="Profile Details" width="80%" height="200"/>
 
-<br>
+  <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raagini-Singh&theme=github-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-### `> ./run_snake.sh` — animated contribution snake
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Raagini-Singh&locale=en&mode=daily&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=00ff41&sideLabels=c9d1d9&border_radius=5&order=3&card_height=235" alt="Current Streak" width="80%" height="170" />
 
-<!-- <img src="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/github-contribution-grid-snake.svg" width="100%"/> -->
+   
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raagini-Singh&theme=github_dark" alt="Stats" width="48%" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raagini-Singh&theme=github_dark&utcOffset=0" alt="Productive time" width="48%" height="170" />
+</div>
 
+
+### `> ./run_snake.sh` — animated contribution snake
+<div align="center">
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph.svg"> 
+  </picture>
 </div>
 
 
@@ -189,34 +192,3 @@ $ cat ctf_history.log | tail -5
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Raagini-Singh&locale=en&mode=daily&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=00ff41&sideLabels=c9d1d9&border_radius=5&order=3&card_height=235" alt="Current Streak" width="80%" height="170" />
-
-  <br>
-
-  <a href="https://github-contributor-stats.vercel.app/api?username=Raagini-Singh&limit=3&theme=github_dark&combine_all_yearly_contributions=true">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Raagini-Singh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" height="170" /> -->
-  </a>
-
-  <br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raagini-Singh&theme=github_dark" alt="Profile Details" width="80%" height="200"/>
-
-  <br>
-
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raagini-Singh&theme=github_dark" alt="Repositories per language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raagini-Singh&theme=github_dark" alt="Most commit language" width="48%" /> -->
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raagini-Singh&theme=github_dark" alt="Stats" width="48%" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raagini-Singh&theme=github_dark&utcOffset=0" alt="Productive time" width="48%" height="170" />
-</div>
-
-  <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph.svg"> 
-  </picture>
-</div>
-<!-- LOC Stats SVG -->
-<div align="center">
-<!-- LOC-STATS:START -->
-<img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
-<!-- LOC-STATS:END -->

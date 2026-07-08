@@ -75,7 +75,6 @@ ragini@kali:~$ cat about_me.txt
 <img src="https://img.shields.io/badge/SpiderFoot-000000?style=for-the-badge&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Recon--ng-000000?style=for-the-badge&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Google%20Dorking-000000?style=for-the-badge&logoColor=00ff41" />
-<br>
 <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Cobalt%20Strike-000000?style=for-the-badge&logoColor=00ff41" />
@@ -93,7 +92,6 @@ ragini@kali:~$ cat about_me.txt
 <img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logoColor=00ff41" />
-<br>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Elastic%20(ELK)-000000?style=for-the-badge&logo=elastic&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logoColor=00ff41" />
@@ -107,7 +105,6 @@ ragini@kali:~$ cat about_me.txt
 <img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00ff41" />
-<br>
 <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=00ff41" />
@@ -118,6 +115,7 @@ ragini@kali:~$ cat about_me.txt
 <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=00ff41" />
 
 </div>
+
 
 ## `[ CERTIFICATION QUEUE ]`
 
@@ -161,6 +159,7 @@ ragini@kali:~$ cat about_me.txt
 
 
 ## `[ CTF LOG ]`
+<div align="left">
 
 ```
 $ cat ctf_history.log | tail -5

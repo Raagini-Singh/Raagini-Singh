@@ -9,8 +9,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=whoami+%3E+ragini_singh;role+%3A+offensive+security+%7C+cti+%7C+blue-teamer;status+%3A+decrypting+networks...+%5BOK%5D;access+%3A+CTF+player+%40+HTB+%2F+THM;mission+%3A+secure+the+perimeter" alt="Typing SVG" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Raagini-Singh&color=00ff41&style=flat-square&label=CONNECTIONS+ESTABLISHED)
-![GitHub followers](https://img.shields.io/github/followers/Raagini-Singh?color=00ff41&style=flat-square&label=FOLLOWERS)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Raagini-Singh&color=00ff41&style=flat-square&label=CONNECTIONS+ESTABLISHED)
+![GitHub followers](https://img.shields.io/github/followers/Raagini-Singh?color=00ff41&style=flat-square&label=FOLLOWERS) -->
+<div>
+  <img src="https://komarev.com/ghpvc/?username=Raagini-Singh&color=00ff41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 </div>
 
@@ -202,3 +205,9 @@ $ cat ctf_history.log | tail -5
     src="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph.svg"
   />
 </picture> 
+
+<div align="center">
+  <img src="https://count.getloli.com/@Raagini-Singh?name=Raagini-Singh&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Love and Deepspace counter" />
+</div>
+
+\

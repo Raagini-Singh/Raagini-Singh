@@ -140,11 +140,11 @@ ragini@kali:~$ cat about_me.txt
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Raagini-Singh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+<img src="https://streak-stats.demolab.com?user=Raagini-Singh&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=00ff41&sideLabels=c9d1d9" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raagini-Singh&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raagini-Singh&theme=github-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -190,24 +190,29 @@ $ cat ctf_history.log | tail -5
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pacman Contribution Graph"
-    src="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph.svg"
-  />
-</picture> 
-
 <div align="center">
-  <img src="https://count.getloli.com/@Raagini-Singh?name=Raagini-Singh&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Love and Deepspace counter" />
+  <img src="https://streak-stats.demolab.com/?user=Raagini-Singh&locale=en&mode=daily&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=00ff41&sideLabels=c9d1d9&border_radius=5&order=3&card_height=235" alt="Current Streak" width="80%" height="170" />
+
+  <br>
+
+  <a href="https://github-contributor-stats.vercel.app/api?username=Raagini-Singh&limit=3&theme=github_dark&combine_all_yearly_contributions=true">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Raagini-Singh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" height="170" /> -->
+  </a>
+
+  <br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raagini-Singh&theme=github_dark" alt="Profile Details" width="80%" height="200"/>
+
+  <br>
+
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raagini-Singh&theme=github_dark" alt="Repositories per language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raagini-Singh&theme=github_dark" alt="Most commit language" width="48%" /> -->
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raagini-Singh&theme=github_dark" alt="Stats" width="48%" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raagini-Singh&theme=github_dark&utcOffset=0" alt="Productive time" width="48%" height="170" />
 </div>
 
-\
+</div>
+  <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/pacman-contribution-graph.svg"> 
+  </picture>
+</div>

@@ -149,7 +149,7 @@ ragini@kali:~$ cat about_me.txt
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/github-contribution-grid-snake.svg" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/Raagini-Singh/Raagini-Singh/output/github-contribution-grid-snake.svg" width="100%"/> -->
 
 </div>
 
@@ -184,8 +184,6 @@ $ cat ctf_history.log | tail -5
 > Reality     : git commit -m "please work"
 > Production  : git push --force (don't tell anyone)
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 

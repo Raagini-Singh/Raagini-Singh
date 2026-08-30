@@ -14,7 +14,7 @@
 
   <!-- Total LOC -->
   <text x="40" y="55" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="32" font-weight="700" fill="#c9d1d9">
-    54,726
+    54,737
   </text>
   <text x="40" y="78" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#8b949e" letter-spacing="1">
     LINES OF CODE
@@ -64,9 +64,9 @@
     YAML
   </text>
   <rect x="180" y="198" width="450" height="14" fill="#161b22" rx="3"/>
-  <rect x="180" y="198" width="164.1012396694215" height="14" fill="#00c853" rx="3" opacity="0.85"/>
+  <rect x="180" y="198" width="164.3853305785124" height="14" fill="#00c853" rx="3" opacity="0.85"/>
   <text x="650" y="210" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#c9d1d9">
-    6,354
+    6,365
   </text>
   <text x="760" y="210" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#8b949e" text-anchor="end">
     11.6%
